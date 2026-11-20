@@ -1,0 +1,43 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+*.apk
+*.aab
+*.ap_
+*.dex
+*.class
+*.hprof
+
+# Local environment and secrets
+.env
+.env.*
+*.local
+android/local.properties
+
+# Android / Gradle caches and generated web assets
+android/.gradle/
+android/.kotlin/
+android/build/
+android/app/build/
+android/capacitor-cordova-android-plugins/
+android/app/src/main/assets/public/
+android/app/src/main/assets/capacitor.config.json
+android/app/src/main/assets/capacitor.plugins.json
+android/app/src/main/res/xml/config.xml
+
+# Internal working files and unprocessed media
+使用说明与清理清单.md
+scripts/
+daily-png-source/
+font-work/
+
+# Editors and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

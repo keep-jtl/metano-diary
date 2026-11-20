@@ -1,0 +1,57 @@
+/* Local fonts supplied by the user. Personal debug build only. */
+
+@font-face {
+  font-family: "MetanoMiSans";
+  src: url("./assets/fonts/misans.woff") format("woff");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "MetanoWencang";
+  src: url("./assets/fonts/wencang.woff") format("woff");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "MetanoQiantu";
+  src: url("./assets/fonts/qiantu.woff") format("woff");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "MetanoChenyu";
+  src: url("./assets/fonts/chenyu.woff") format("woff");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "MetanoCaramel";
+  src: url("./assets/fonts/caramel.woff") format("woff");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "MetanoPangmen";
+  src: url("./assets/fonts/pangmen.woff") format("woff");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "MetanoFonarto";
+  src: url("./assets/fonts/fonarto.woff") format("woff");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
