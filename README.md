@@ -164,7 +164,7 @@ sdk.dir=/path/to/your/android-sdk
 - 包名：`com.diandian.diary`
 - 最低 Android：`minSdk 24`
 - 目标 Android：`targetSdk 36`
-- 仓库内提供的是 **debug 签名** APK，仅用于体验和测试，不适合正式上架或对外分发。
+- Release 附件提供的是 **debug 签名** APK，仅用于体验和测试，不适合正式上架或对外分发。
 
 ## 已知限制
 
