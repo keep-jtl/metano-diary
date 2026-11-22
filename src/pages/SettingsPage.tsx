@@ -283,7 +283,7 @@ export function SettingsPage({
           </div>
           <div className="setting-main">
             <div className="setting-title">版本</div>
-            <div className="setting-sub">0.7.0 · 本地存储，不上传</div>
+            <div className="setting-sub">0.7.1 · 本地存储，不上传</div>
           </div>
         </div>
       </div>
@@ -374,7 +374,7 @@ export function SettingsPage({
           <MoodFace mood="anxious" size={34} />
           <MoodFace mood="angry" size={34} />
         </div>
-        <p className="about-version">版本 0.7.0</p>
+        <p className="about-version">版本 0.7.1</p>
         <button type="button" className="btn-primary" onClick={() => setAboutOpen(false)}>
           知道了
         </button>
